@@ -80,7 +80,7 @@ body {
   position: absolute;
   bottom: 30px; 
   width: 100%;
-  font-family: Avenir !important;
+  font-family: Avenir;
   font-size: 13px;
   font-stretch: normal;
   font-style: normal;
